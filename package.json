@@ -1,0 +1,14 @@
+{
+    "name": "autenticacao-cookies",
+    "version": "1.0.0",
+    "description": "Atividade do canvas de cookies",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "cookie-parser": "^1.4.6",
+        "express": "^4.18.2",
+        "jsonwebtoken": "^9.0.3"
+    }
+}
